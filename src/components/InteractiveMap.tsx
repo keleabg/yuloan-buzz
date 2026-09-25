@@ -1,0 +1,1 @@
+// Superseded by src/components/Widgets.tsx (InteractiveMap) — removed.

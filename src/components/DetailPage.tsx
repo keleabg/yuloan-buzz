@@ -1,0 +1,1 @@
+// Superseded by src/components/DetailView.tsx — removed.
